@@ -2,10 +2,6 @@
 
 <div align="center">
 
-[![License](https://img.shields.io/badge/license-GPL--3.0-orange)](./LICENSE)
-[![Nubank](https://img.shields.io/badge/donate-nubank-purple)](https://nubank.com.br/pagar/1j4x3i/qA4jW8n5WR)
-
-
 ## Vamos instalar?
 
 FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO (USAR SOMENTE PARA PRIMEIRA INSTALAÇÃO):
